@@ -1,0 +1,17 @@
+venv
+venv/*
+venv/
+blpapi
+blpapi/*
+blpapi
+blpapi_cpp_3.8.1.1
+blpapi_cpp_3.8.1.1/
+blpapi_cpp_3.8.1.1/*
+swig/
+swig
+swig/*
+build
+build/*
+build/
+swig-3.0.12.tar.gz
+*.pyc

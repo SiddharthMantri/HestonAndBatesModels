@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cdd5902-5d2e-452f-9bb0-42e21be2faf4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSVWithHestonPrices/SDS_WithHestonPrice_CSV.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSVWithHestonPrices/SH_WithHestonPrice_CSV.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSVWithHestonPrices/SPXU_WithHestonPrice_CSV.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSVWithHestonPrices/SSO_WithHestonPrice_CSV.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSVWithHestonPrices/UPRO_WithHestonPrice_CSV.csv" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BlackScholes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CBOE Downloaded Data/SDS.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CBOE Downloaded Data/SH_Data.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CBOE Downloaded Data/SPXU_Data.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CBOE Downloaded Data/SPY_Data.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CBOE Downloaded Data/SSO.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CBOE Downloaded Data/UPRO_Data.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Calibration.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EmailData/CalibratedParameters.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EmailData/SDS_HestonPriceVsMarketPrice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EmailData/SDS_HestonPriceVsMarketPriceExcel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EmailData/SSO_HestonAndMarketVolatilitiesAlmostTheSame.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EmailData/SSO_HestonPriceVsMarketPrice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EmailData/SSO_HestonPriceVsMarketPriceExcel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTMLPagesForCharts/SDS_PriceData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTMLPagesForCharts/SH_PriceData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTMLPagesForCharts/SPXU_PriceData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTMLPagesForCharts/SSO_PriceData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTMLPagesForCharts/UPRO_PriceData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImpliedVolatility.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PerformAnalysis.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PlotData.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SDS_WithHestonPrice.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SH_WithHestonPrice.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPXU_Calcdata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPXU_Calcdata_implvol.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPXU_Calcdata_implvol_withmeanreversion.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPXU_WithHestonPrice.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPY_Calcdata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPY_Calcdata_implvol_withmeanreversion.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SSO_PriceData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SSO_WithHestonPrice.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/UPRO_WithHestonPrice.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/compute_heston.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/load.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp-plot.html" afterPath="" />
+    </list>
+    <ignored path="FE800_PhaseOne.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="FE800_PhaseOne" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Calibration/BatesCalibrate.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE800_PhaseOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE800_PhaseOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE800_PhaseOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE800_PhaseOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE800_PhaseOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Calibration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE800_PhaseOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE800_PhaseOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Analysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cdd5902-5d2e-452f-9bb0-42e21be2faf4" name="Default" comment="" />
+      <created>1492802464786</created>
+      <option name="number" value="Default" />
+      <updated>1492802464786</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Calibration/BatesCalibrate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1107595">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analysis/PerformAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03076923">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
